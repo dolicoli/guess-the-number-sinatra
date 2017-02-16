@@ -19,7 +19,8 @@ GEM
       rack-test
       sinatra (~> 1.4.0)
       tilt (>= 1.3, < 3)
-    tilt (2.0.5)
+    tilt (2.0.5)]
+	puma
 
 PLATFORMS
   ruby
